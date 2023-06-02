@@ -9,11 +9,8 @@ In this bounty, you will be working with Etherscan APIs and are tasked to wrap m
 - Get Total Supply of Ether (https://docs.etherscan.io/api-endpoints/stats-1#get-total-supply-of-ether) 
 
 ## Getting Started
-1. Sign up for a new Etherscan account to generate your API key if you do not have one. 
-2. Proceed to clone the git repository 
-3. Create a new .env file and create a `ETHERSCAN_API` key variable to insert your Etherscan API key value
-4. Run the `$npm install` command to install the necessary dependencies
-5. Make the code changes to `schema.graphql` and `ethDatasource.js`
-6. Run the `$node index.js` command to initialise the GraphQL server and run your queries
-
-
+1. Sign up for a new <a href="https://etherscan.io/register"><strong>Etherscan account</strong></a> to generate your API key if you do not have one. 
+2. Proceed to clone this repository. 
+3. Create a new .env file and create a `ETHERSCAN_API` key variable to insert your Etherscan API key value.
+4. Run the `$npm install` command to install the necessary dependencies.
+5. Run the `$node index.js` command to initialise the GraphQL server and run your queries.
